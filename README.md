@@ -10,6 +10,7 @@ Jupyter notebooks with exercises and code examples for the Computer Vision (CVI4
 |---|-------|-------|
 | 01 | Introduction to Computer Vision | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cvi4ic-notebooks/blob/main/01-introduction.ipynb) |
 | 02 | Image Representation & Color Spaces | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cvi4ic-notebooks/blob/main/02-image-representation.ipynb) |
+| 03 | Image Filtering & Frequency Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cvi4ic-notebooks/blob/main/03-image-filtering.ipynb) |
 
 > More sessions will be added as the course progresses.
 
